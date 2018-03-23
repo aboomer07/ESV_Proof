@@ -1,4 +1,5 @@
-Note: In order to open the link in a separate window, hold ctrl on Windows or Command on mac while clicking (GitHub doesn't support presetting this :(
+Note: In order to open the links in a separate window, hold ctrl on Windows or Command on mac while clicking (GitHub doesn't support presetting this :(
+
 <a href = "http://nbviewer.jupyter.org/github/aboomer07/ESV_Proof/blob/master/ESV_Proof.ipynb?flush_cache=True" target="blank">Link to Notebook Viewer</a>
 
 # Sensitivity Analysis
